@@ -7,6 +7,7 @@ gdwbcw
 qwerty
 >>>>>>> parent of 64edea3... new change
 LALITA ROSEANNE PONNUTHRAI
+<<<<<<< HEAD
 
 1232
 
@@ -14,3 +15,7 @@ NAZHATUL AQMA NAZIHA ZULKIFLI
 
 733cb r2b3
 vd qil ciqrl
+=======
+ 
+NAZHATUL AQMA NAZIHA ZULKIFL
+>>>>>>> parent of 3fa8ed6... Revert "d i"
