@@ -37,6 +37,18 @@
  * Output: You should return a boolean denoting whether or not the image is 
  *         an 'on' (red) signal.
  */
+function restartButtonClicked ()
+{
+	
+	//Empty out all the variables (setting it to 0 or empty string)
+
+	offCount = 0
+	onCount = 0
+	blueCount = 0
+	redCount = 0
+	displayResult.innerHTML = ""
+	
+}
 function decodeCameraImage(data)
 {
     // ADD YOUR CODE HERE
