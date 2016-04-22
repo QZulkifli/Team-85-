@@ -8,8 +8,11 @@ qwerty
 >>>>>>> parent of 64edea3... new change
 LALITA ROSEANNE PONNUTHRAI
 
+<<<<<<< HEAD
 1232
 
+=======
+>>>>>>> parent of 3241add... new
 NAZHATUL AQMA NAZIHA ZULKIFLI
 
 733cb r2b3
